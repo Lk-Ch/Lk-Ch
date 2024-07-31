@@ -18,4 +18,4 @@ Welcome to my GitHub profile! I'm a Fractional CFO with extensive experience in 
 
 Explore the sections below to learn more about what I offer, past successes, and how I can help your business thrive.
 
-[About Me](https://github.com/Lk-Ch/Fractional-CFO-Switzerland/blob/main/AboutMe.md) | [Services](Services.md) | [Case Studies](CaseStudies.md) | [Testimonials](Testimonials.md) | [Blog](Blog.md) | [Contact](Contact.md)
+[About Me](AboutMe.md) | [Services](Services.md) | [Case Studies](CaseStudies.md) | [Testimonials](Testimonials.md) | [Blog](Blog.md) | [Contact](Contact.md)
